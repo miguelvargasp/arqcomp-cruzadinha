@@ -5,7 +5,7 @@ Jogo de cruzadinha sobre Arquitetura Computacional, desenvolvido em HTML, CSS e 
 
 
 ## Como jogar
-1. Abra este link:  em um navegador.
+1. Abra este link: [text](https://miguelvargasp.github.io/arqcomp-cruzadinha/) em um navegador.
 2. Leia as pistas Horizontais e Verticais.
 3. Clique nas casas e digite uma letra por casa.
 4. Clique em **Conferir respostas** para verificar as palavras e acompanhar a pontuação.
