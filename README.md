@@ -1,17 +1,17 @@
-# Cruzada Entrecruzada
+Cruzada Entrecruzada
 
 Jogo de cruzadinha sobre Arquitetura Computacional, desenvolvido em HTML, CSS e JavaScript puros.
 
 
 
-## Como jogar
-1. Abra este link: [text](https://miguelvargasp.github.io/arqcomp-cruzadinha/) em um navegador.
+Como jogar
+1. Abra este link: https://miguelvargasp.github.io/arqcomp-cruzadinha/ em um navegador.
 2. Leia as pistas Horizontais e Verticais.
 3. Clique nas casas e digite uma letra por casa.
 4. Clique em **Conferir respostas** para verificar as palavras e acompanhar a pontuação.
 5. Clique em **Reiniciar** para limpar o tabuleiro.
 
-## Palavras e pistas
+Palavras
 
 | Palavra | Pista |
 |---|---|
@@ -28,9 +28,8 @@ Jogo de cruzadinha sobre Arquitetura Computacional, desenvolvido em HTML, CSS e 
 | ADDRESSBUS | Conjunto de fios que indica a posição de memória ou dispositivo que será acessado. |
 | DATABUS | Via que transporta valores lidos ou escritos e também instruções entre componentes. |
 
-## Arquivos
+Arquivos
 - `index.html`: estrutura da página.
 - `style.css`: aparência e responsividade.
 - `script.js`: tabuleiro, pistas, navegação e verificação.
 
-Projeto desenvolvido até a **Parte 2 — O jogo**. A Parte 3 (GitHub e versionamento) não está incluída.
